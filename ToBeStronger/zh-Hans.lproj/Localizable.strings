@@ -1,0 +1,175 @@
+/* 
+  Localizable.strings
+  ToBeStronger
+
+  Created by Zhang Boxuan on 14-4-22.
+  Copyright (c) 2014年 Boxuan Zhang. All rights reserved.
+*/
+
+
+/* Weekday - Sunday */
+"Sunday" = "星期日";
+
+/* Weekday - Monday */
+"Monday" = "星期一";
+
+/* Weekday - Tuesday */
+"Tuesday" = "星期二";
+
+/* Weekday -  Wednesday*/
+"Wednesday" = "星期三";
+
+/* Weekday - Thursday */
+"Thursday" = "星期四";
+
+/* Weekday - Friday */
+"Friday" = "星期五";
+
+/* Weekday - Saturday */
+"Saturday" = "星期六";
+
+/* Month - January */
+"January" = "一月";
+
+/* Month - February */
+"Feburary" = "二月";
+
+/* Month - March */
+"March" = "三月";
+
+/* Month - April */
+"April" = "四月";
+
+/* Month - May */
+"May" = "五月";
+
+/* Month - June */
+"June" = "六月";
+
+/* Month - July */
+"July" = "七月";
+
+/* Month - August */
+"August" = "八月";
+
+/* Month - September */
+"September" = "九月";
+
+/* Month - October */
+"October" = "十月";
+
+/* Month - November */
+"November" = "十一月";
+
+/* Month - December */
+"December" = "十二月";
+
+/* -------------- Position -----------------*/
+
+/* Position - Shoulder */
+"Shoulders" = "肩部";
+
+/* Position - Chest */
+"Chest" = "胸部";
+
+/* Position - Arms */
+"Arms" = "臂部";
+
+/* Position - Core */
+"Core" = "核心区";
+
+/* Position - Legs */
+"Legs" = "腿部";
+
+/* Position - Other */
+"Other" = "其他";
+
+
+/* -------------- Frequency -----------------*/
+
+/* Every 1 day */
+"every 1 day" = "每一天";
+
+/* Every 2 day */
+"every 2 day" = "每两天";
+
+/* Every 3 day */
+"every 3 day" = "每三天";
+
+/* Every 4 day */
+"every 4 day" = "每四天";
+
+/* Every 5 day */
+"every 5 day" = "每五天";
+
+/* Every 6 day */
+"every 6 day" = "每六天";
+
+/* -------------- Counting Method -----------------*/
+
+/* Counting Method - Accelorometer */
+"Accelorometer" = "重力感应";
+
+/* Counting Method - Touch */
+"Touch" = "触摸";
+
+
+/* -------------- New Plan Hint -----------------*/
+
+/* Weight Hint */
+"WeightHint" = "重量\t\t\t\t\t\t\t\t    %@ kg";
+
+/* Start Date Hint */
+"StartDateHint" = "开始日期\t\t\t\t\t\t%@";
+
+/* Frequency Hint */
+"FrequencyHint" = "间隔天数\t\t\t\t\t\t        %@";
+
+/* Duration Hint */
+"DurationHint" = "持续周数\t\t\t\t\t\t\t      %ld 周";
+
+
+/* -------------- Today View Labels -----------------*/
+
+/* Weight Label */
+"WeightLabel" = "重量";
+
+/* Number Label */
+"NumberLabel" = "数量";
+
+/* Sets Label */
+"SetsLabel" = "组数";
+
+/*Delete Confirmation*/
+"DeleteConfirmation" = "确定删除该计划所有内容?";
+
+/* Cancel */
+"Cancel" = "取消";
+
+/* Confirm */
+"Confirm" = "确定";
+
+
+/* -------------- Counter View Labels -----------------*/
+
+/* Set Number */
+"SetNumber" = "第 %ld 组";
+
+/* Counting Method Hint */
+"CountingMethodHint" = "计数方式: %@";
+
+/* -------------- New Plan Hint -----------------*/
+
+/* Information incomplete hint */
+"InfoIncomplete" = "请输入完整的计划信息";
+
+/* Back */
+"Back" = "返回";
+
+/* Number Too Large */
+"NumberTooLarge" = "每组动作数超出范围(1-99)";
+
+
+
+
+

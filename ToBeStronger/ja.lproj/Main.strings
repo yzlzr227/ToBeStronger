@@ -1,0 +1,105 @@
+
+/* Class = "IBUITextField"; placeholder = "Sets"; ObjectID = "1LS-CZ-Nx1"; */
+"1LS-CZ-Nx1.placeholder" = "グループ";
+
+/* Class = "IBUITextField"; placeholder = "Counting Method"; ObjectID = "2Kz-G5-iBA"; */
+"2Kz-G5-iBA.placeholder" = "計数方法";
+
+/* Class = "IBUITextField"; placeholder = "Start Date"; ObjectID = "2m5-oD-E83"; */
+"2m5-oD-E83.placeholder" = "開始日付";
+
+/* Class = "IBUITextField"; placeholder = "Position"; ObjectID = "4kb-BE-zy7"; */
+"4kb-BE-zy7.placeholder" = "ポジション";
+
+/* Class = "IBUILabel"; text = "Sun"; ObjectID = "53t-MH-BLC"; */
+"53t-MH-BLC.text" = "日";
+
+/* Class = "IBUILabel"; text = "Wed"; ObjectID = "5RM-Zx-UvI"; */
+"5RM-Zx-UvI.text" = "水";
+
+/* Class = "IBUILabel"; text = "Sat"; ObjectID = "7Tp-3W-qBL"; */
+"7Tp-3W-qBL.text" = "土";
+
+/* Class = "IBUITextField"; placeholder = "Num. per set"; ObjectID = "9Hf-UQ-UcY"; */
+"9Hf-UQ-UcY.placeholder" = "数量";
+
+/* Class = "IBUITextField"; placeholder = "Frequency"; ObjectID = "B1n-Q6-9YP"; */
+"B1n-Q6-9YP.placeholder" = "間隔天数";
+
+/* Class = "IBUILabel"; text = "31"; ObjectID = "CYI-Lz-NrL"; */
+"CYI-Lz-NrL.text" = "31";
+
+/* Class = "IBUILabel"; text = "Set 1"; ObjectID = "FT7-Dh-6iC"; */
+"FT7-Dh-6iC.text" = "Set 1";
+
+/* Class = "IBUILabel"; text = "12"; ObjectID = "JYQ-AK-V4C"; */
+"JYQ-AK-V4C.text" = "12";
+
+/* Class = "IBUILabel"; text = "Monday"; ObjectID = "LvM-ik-dcn"; */
+"LvM-ik-dcn.text" = "月曜日";
+
+/* Class = "IBUILabel"; text = "Fri"; ObjectID = "P7P-kD-J6Q"; */
+"P7P-kD-J6Q.text" = "金";
+
+/* Class = "IBUIViewController"; title = "Counter"; ObjectID = "Q33-kH-uZg"; */
+"Q33-kH-uZg.title" = "カウンター";
+
+/* Class = "IBUILabel"; text = "CountingMethod: Touch"; ObjectID = "RMG-lq-TYH"; */
+"RMG-lq-TYH.text" = "計数方法: タッチ";
+
+/* Class = "IBUINavigationItem"; title = "Recovery Time"; ObjectID = "VyT-1T-JBL"; */
+"VyT-1T-JBL.title" = "回復時間";
+
+/* Class = "IBUINavigationItem"; title = "Counter"; ObjectID = "aCZ-yo-FWT"; */
+"aCZ-yo-FWT.title" = "カウンター";
+
+/* Class = "IBUILabel"; text = "31"; ObjectID = "aTe-cg-YDi"; */
+"aTe-cg-YDi.text" = "31";
+
+/* Class = "IBUILabel"; text = "00:00"; ObjectID = "cYo-ml-74h"; */
+"cYo-ml-74h.text" = "00:00";
+
+/* Class = "IBUITextField"; placeholder = "Content"; ObjectID = "d4q-jm-M3P"; */
+"d4q-jm-M3P.placeholder" = "内容";
+
+/* Class = "IBUINavigationItem"; title = "New Plan"; ObjectID = "dyA-ac-x9X"; */
+"dyA-ac-x9X.title" = "新計画";
+
+/* Class = "IBUIButton"; normalTitle = "Continue"; ObjectID = "fTW-6M-WeE"; */
+"fTW-6M-WeE.normalTitle" = "続ける";
+
+/* Class = "IBUILabel"; text = "Thu"; ObjectID = "gcN-Ps-mYI"; */
+"gcN-Ps-mYI.text" = "木";
+
+/* Class = "IBUILabel"; text = "Monday"; ObjectID = "gim-K7-L1L"; */
+"gim-K7-L1L.text" = "月";
+
+/* Class = "IBUILabel"; text = "Apirl"; ObjectID = "jVJ-Zs-lOX"; */
+"jVJ-Zs-lOX.text" = "四月";
+
+/* Class = "IBUINavigationItem"; title = "Today"; ObjectID = "nai-eG-tc0"; */
+"nai-eG-tc0.title" = "今日";
+
+/* Class = "IBUITextField"; placeholder = "Weight"; ObjectID = "r0d-Wp-CMH"; */
+"r0d-Wp-CMH.placeholder" = "重量";
+
+/* Class = "IBUITextField"; placeholder = "Duration(weeks)"; ObjectID = "tQr-Ci-O33"; */
+"tQr-Ci-O33.placeholder" = "続き週数";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "uNS-pr-dtT"; */
+"uNS-pr-dtT.title" = "終わった";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "uuz-3T-mxQ"; */
+"uuz-3T-mxQ.text" = "0";
+
+/* Class = "IBUIViewController"; title = "Timer"; ObjectID = "vXZ-lx-hvc"; */
+"vXZ-lx-hvc.title" = "タイマー";
+
+/* Class = "IBUINavigationItem"; title = "Month"; ObjectID = "w5s-Z8-nHh"; */
+"w5s-Z8-nHh.title" = "スケジュール";
+
+/* Class = "IBUILabel"; text = "Mon"; ObjectID = "xFA-ju-0Ed"; */
+"xFA-ju-0Ed.text" = "月";
+
+/* Class = "IBUILabel"; text = "Tue"; ObjectID = "zDh-hh-zzP"; */
+"zDh-hh-zzP.text" = "火";

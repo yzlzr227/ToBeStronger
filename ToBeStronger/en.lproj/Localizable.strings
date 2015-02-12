@@ -1,0 +1,195 @@
+/* 
+  Localizable.strings
+  ToBeStronger
+
+  Created by Zhang Boxuan on 14-4-22.
+  Copyright (c) 2014年 Boxuan Zhang. All rights reserved.
+*/
+
+
+/* -------------- Weekday -----------------*/
+
+/* Weekday - Sunday */
+"Sunday" = "Sunday";
+
+/* Weekday - Monday */
+"Monday" = "Monday";
+
+/* Weekday - Tuesday */
+"Tuesday" = "Tuesday";
+
+/* Weekday -  Wednesday*/
+"Wednesday" = "Wednesday";
+
+/* Weekday - Thursday */
+"Thursday" = "Thursday";
+
+/* Weekday - Friday */
+"Friday" = "Friday";
+
+/* Weekday - Saturday */
+"Saturday" = "Saturday";
+
+
+/* -------------- Month -----------------*/
+
+
+/* Month - January */
+"January" = "January";
+
+/* Month - February */
+"Feburary" = "Feburary";
+
+/* Month - March */
+"March" = "March";
+
+/* Month - April */
+"April" = "April";
+
+/* Month - May */
+"May" = "May";
+
+/* Month - June */
+"June" = "June";
+
+/* Month - July */
+"July" = "July";
+
+/* Month - August */
+"August" = "August";
+
+/* Month - September */
+"September" = "September";
+
+/* Month - October */
+"October" = "October";
+
+/* Month - November */
+"November" = "November";
+
+/* Month - December */
+"December" = "December";
+
+
+/* -------------- Position -----------------*/
+
+/* Position - Shoulder */
+"Shoulders" = "Shoulders";
+
+/* Position - Chest */
+"Chest" = "Chest";
+
+/* Position - Arms */
+"Arms" = "Arms";
+
+/* Position - Core */
+"Core" = "Core";
+
+/* Position - Legs */
+"Legs" = "Legs";
+
+/* Position - Other */
+"Other" = "Other";
+
+/* -------------- Frequency -----------------*/
+
+/* Every 1 day */
+"every 1 day" = "every 1 day";
+
+/* Every 2 day */
+"every 2 day" = "every 2 day";
+
+/* Every 3 day */
+"every 3 day" = "every 3 day";
+
+/* Every 4 day */
+"every 4 day" = "every 4 day";
+
+/* Every 5 day */
+"every 5 day" = "every 5 day";
+
+/* Every 6 day */
+"every 6 day" = "every 6 day";
+
+
+/* -------------- Counting Method -----------------*/
+
+/* Counting Method - Accelorometer */
+"Accelorometer" = "Accelorometer";
+
+/* Counting Method - Touch */
+"Touch" = "Touch";
+
+/* -------------- New Plan Hint -----------------*/
+
+/* Weight Hint */
+"WeightHint" = "Weight\t\t\t\t\t\t\t\t    %@ lb";
+
+/* Start Date Hint */
+"StartDateHint" = "Start Date\t\t\t\t\t\t%@";
+
+/* Frequency Hint */
+"FrequencyHint" = "Freq.\t\t\t\t\t\t    %@";
+
+/* Duration Hint */
+"DurationHint" = "Duration\t\t\t\t\t\t  %ld week(s)";
+
+
+/* -------------- Today View Labels -----------------*/
+
+/* Weight Label */
+"WeightLabel" = "Weight";
+
+/* Number Label */
+"NumberLabel" = "Num.";
+
+/* Sets Label */
+"SetsLabel" = "Set";
+
+/* Delete Confirmation */
+"DeleteConfirmation" = "Delete all contents of this plan?";
+
+/* Cancel */
+"Cancel" = "Cancel";
+
+/* Confirm */
+"Confirm" = "Confirm";
+
+
+/* -------------- Counter View Labels -----------------*/
+
+/* Set Number */
+"SetNumber" = "Set %ld";
+
+/* Counting Method Hint */
+"CountingMethodHint" = "CountingMethod: %@";
+
+/* -------------- New Plan Hint -----------------*/
+
+/* Information incomplete hint */
+"InfoIncomplete" = "Please input complete information";
+
+/* Back */
+"Back" = "Back";
+
+/* Number Too Large */
+"NumberTooLarge" = "Number per set is too large, should be 1 - 99";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
